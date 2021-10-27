@@ -1,0 +1,117 @@
+*{ 
+  margin:0px;
+  padding: 0px;
+  outline: 0px;
+  font-family: sans-serif;
+  background:;
+}
+.clear{
+	overflow: hidden;
+}
+
+.login_section {
+    height: 310px;
+    background: #191919;
+    /* width: 0%; */
+    width: 100%;
+    padding: 0px;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    margin: 0px;
+    padding-top: 0px;
+}
+.login_section form{
+	width: 100%;
+	height: 273px;
+	background: #191919;
+    padding: 0px;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    margin: 0px;
+    padding-top: 50px;
+
+}
+.login_section h1{
+	color: white;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: 20px;
+} 
+.login_section input[ type="text"]{
+	border:0px;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border:2px solid #9498bd;
+	padding: 14px 10px;
+	color: white;
+	outline: none;
+	border-radius: 20px;
+
+}
+.login_section input[ type="password"]{
+	border:0px;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border:2px solid #9498bd;
+	padding: 14px 10px;
+	outline: none;
+	color: white;
+	transition: .025s;
+	border-radius: 20px;
+
+}
+
+.login_section input[ type="submit"]{
+	border:0px;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border:2px solid #9498bd;
+	padding: 14px 10px;
+	outline: none;
+	color: white;
+	transition: .025s;
+	border-radius: 20px;
+}
+.login_section input[ type="submit"]:hover{
+	background: #2ecc71;
+}
+.footer_section{
+ width: 100%;
+ background-color:#06050ede;
+ text-align: center;
+ color: #bea2af99;
+ padding: 50px 10px;
+ display: block;
+ position:all;
+ left: 5px;
+ bottom: 5px;
+}
+.footer_section.footer_img label label label label {
+	width: 20px;
+	height: 250px;
+	padding-top: 30px;
+}
+.footer_part2 p{
+	color:#009688;
+	padding: 10px;
+}
+
+ .footer_next{
+ 	width: 100%;
+ 	background: blue;
+ }
+ .footer_next p{
+ 	text-align: center;
+ 	font-family:sans-serif;
+ 	margin-bottom: 0px;
+ }
+
